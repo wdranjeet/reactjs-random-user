@@ -15,5 +15,13 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "author": "Ranjeet kumar <wdranjeet@gmail.com> (https://github.com/wdranjeet)",
+  "homepage": "https://github.com/wdranjeet/reactjs-random-user",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wdranjeet"
   }
+
+
 }
